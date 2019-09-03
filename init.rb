@@ -3,7 +3,7 @@ Redmine::Plugin.register :due_date do
   author 'Prelipcean Alex'
   description 'Add Due Date in email notification'
   version '0.0.1'
-  url ''
+  url 'https://github.com/PrelipceanAlexandru/due_date'
   author_url 'https://assist-software.net/team/alexandru-prelipcean'
 end
 
