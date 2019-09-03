@@ -2,6 +2,8 @@
 
 Add Due Date in email notification
 
+Redmine version: 3.4.11
+
 Copy your plugin directory into #{RAILS_ROOT}/plugins. If you are downloading the plugin directly from GitHub,
 you can do so by changing into your plugin directory and issuing a command like git clone https://github.com/PrelipceanAlexandru/due_date
 
